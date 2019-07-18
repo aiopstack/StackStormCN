@@ -54,5 +54,5 @@ StackStorm官方文档翻译群：438849333
 
 StackStorm中国用户群QQ群：138132636
 
-AIOPStack.com或AIOPStack.cn或访问简书上的AIOPstack（http://www.jianshu.com/u/8f542594f2cb）
-相关收集文章。
+AIOPStack.com或AIOPStack.cn或访问简书上的AIOPstack（http://www.jianshu.com/u/8f542594f2cb
+）相关收集文章。
